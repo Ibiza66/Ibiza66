@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Constanza 👋
 
-<!--
-**Ibiza66/Ibiza66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería Civil Informática y Telecomunicaciones.
 
-Here are some ideas to get you started:
+## Tecnologías
+- Java
+- Python
+- JavaScript
+- Node.js
+- MongoDB
+- React
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+- 🩺 Vitality
+- ♟️ PeonesEnFuga
+
+## Actualmente
+- Aprendiendo desarrollo móvil y backend.
+- Interesada en IA y desarrollo de software.
