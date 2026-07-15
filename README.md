@@ -1,8 +1,11 @@
 
 # ¡Hola! Soy Constanza 
 
-
 🎓 Estudiante de Ingeniería Civil Informática y Telecomunicaciones.
+
+## 📫 Contáctame
+
+- 💼 LinkedIn: www.linkedin.com/in/constanza-alegría-ulloa-a4bb67318
 
 ## Tecnologías
 - Java
